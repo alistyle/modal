@@ -1,0 +1,23 @@
+{
+  "name": "modal",
+  "description": "alibaba css theme - modal",
+  "version": "1.0.1",
+  "homepage": "https://github.com/alistyle/modal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alistyle/modal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alistyle/modal/issues"
+  },
+  "family": "alistyle",
+  "spm": {
+    "alias": {
+        "base":    "alistyle/base/1.0.1/base.css",
+        "button":  "alistyle/button/1.0.1/button.css"
+    },
+    "output": [
+      "modal.css"
+    ]
+  }
+}
