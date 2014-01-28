@@ -14,7 +14,7 @@
 }
 
 .ali-modal{
-    position: fixed;
+    position: absolute;
     background-color: rgba(0,0,0,.5);
     border: 0;
     padding: 6px;
