@@ -15,7 +15,7 @@
 
 .ali-modal{
     position: absolute;
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,.3);
     border: 0;
     padding: 6px;
     outline: 0;
@@ -31,14 +31,14 @@
     cursor: pointer;
     display: block;
     font-family: tahoma;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 700;
     height: 18px;
     line-height: 14px;
     position: absolute;
-    right: 16px;
+    right: 14px;
     text-decoration: none;
-    top: 16px;
+    top: 14px;
     z-index: 10;
 }
 .ali-modal-close:hover{
