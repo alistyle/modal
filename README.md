@@ -2,7 +2,7 @@
 
 ---
 
-// description
+弹出框/模式对话框
 
 ---
 
@@ -13,9 +13,8 @@
 ### 默认
 
 ````html
-<div class="ali-modal-mask"></div>
 <div class="ali-modal">
-    <a class="ali-modal-close" title="Close" href="javascript:;" data-role="close" style="display: inline;">×</a>
+    <a class="ali-modal-close" title="Close" href="javascript:;" data-role="close" style="display: inline; position: inherit;">×</a>
     <div class="ali-modal-content">
         <div class="ali-modal-header">
             您好~
